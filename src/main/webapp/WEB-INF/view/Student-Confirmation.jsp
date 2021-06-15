@@ -8,11 +8,14 @@
 </head>
 <body>
 
-The Student is Confirmed : ${student.firstName}
+The Student is Confirmed : ${student.firstName}<br>
 
 <br>
-Country : ${student.country}
+Country : ${student.country}<br>
 
-FavouriteLanguage : ${student.favouriteLanguage}
+FavouriteLanguage : ${student.favouriteLanguage}<br>
+
+Oprating System :${student.operatingSystem}
+
 </body>
 </html>
